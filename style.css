@@ -1,0 +1,65 @@
+html {
+  background: black;
+  font-family: arial;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+html {
+  width: 100%;
+  height: 100%;
+  padding-top: 50px;
+  text-align: center;
+  background: radial-gradient(circle at center, grey, black 80%);
+}
+h1 {
+  width: 80%;
+  min-width: 450px;
+  margin: auto;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 2.5em;
+  font-family: Orbitron, sans-serif;
+  font-weight: bold;
+  border: 2px solid white;
+  border-radius: 8px;
+  background: rgba(204,204,204,0.25)
+}
+#controlButtons {
+  margin-bottom: 20px;
+}
+#controlButtons button{
+  font-weight: bold;
+  font-size: 1.2em;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 8px;
+}
+button {
+  cursor: pointer;
+}
+#minusbuttons button, #plusbuttons button {
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  width: 45px;
+  height: 45px;
+  border: 2px solid black;
+  border-radius: 30px;
+  margin: 0 20px
+}
+#timer {
+  display: inline-block;
+  font-size: 20px;
+  width: 250px;
+  font-family: Orbitron;
+  font-weight: bold;
+  font-size: 2em;
+  background: #92a05f;
+  padding: 5px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+
+button{
+  margin: 0 8px;
+}
