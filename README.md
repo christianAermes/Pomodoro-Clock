@@ -1,5 +1,5 @@
 # Pomodoro-Clock
-
+This was a coding project as a part of the Front End Library qualification of [freecodecamp.org](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock/)
 
 ## What does it do?
 
