@@ -12,8 +12,7 @@ html {
   background: radial-gradient(circle at center, grey, black 80%);
 }
 h1 {
-  width: 80%;
-  min-width: 450px;
+  min-width: 550px;
   margin: auto;
   margin-bottom: 20px;
   color: white;
